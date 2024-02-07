@@ -1,0 +1,3 @@
+<!-- language: python -->
+def greet(name):
+    print("Hello, " + name + "!")
