@@ -1,7 +1,6 @@
 # Python-Annotations
 Learning how to annotate Python for GitHub
 
-layout: inline
 ```python
 # Function to print string variables
 def assignment4() -> None:
