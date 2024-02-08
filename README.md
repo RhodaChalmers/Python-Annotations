@@ -3,7 +3,7 @@
 # This is based upon https://docs.github.com/en/contributing/writing-for-github-docs/annotating-code-examples
 
 # you can't see it but
-# I used ```python before the next bit of text and ended with ``` after the last bit of text
+# I used \`\`\`python before the next bit of text and ended with \`\`\` after the last bit of text
 ```python
 # Function to print string variables
 def assignment4() -> None:
